@@ -1,0 +1,35 @@
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\Student Management System.csproj.AssemblyReference.cache
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\Student Management System.AssemblyInfoInputs.cache
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\Student Management System.AssemblyInfo.cs
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\Student Management System.csproj.CoreCompileInputs.cache
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\Student Management System.exe
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\Student Management System.deps.json
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\Student Management System.runtimeconfig.json
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\Student Management System.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\Student Management System.pdb
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\Student Management System.csproj.CopyComplete
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\Student Management System.dll
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\refint\Student Management System.dll
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\Student Management System.pdb
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\Student Management System.genruntimeconfig.cache
+D:\CSHARP\Student Management System\Student Management System\obj\Debug\net6.0\ref\Student Management System.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\Student Management System.dll.config
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSHARP\Student Management System\Student Management System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
